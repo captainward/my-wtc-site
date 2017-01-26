@@ -1,0 +1,61 @@
+body {
+    margin: 20px;
+}
+
+h1 {
+    font-family: "Helvetica","Arial",sans-serif;
+    padding: 20px;
+    background-color: #33bebe;
+    color: white;
+}
+
+h2 {
+    font-family: "Helvetica","Arial",sans-serif;
+    padding: 20px;
+    background-color: #33bebe;
+    color: white;
+}
+
+p {
+    font-family: "Times New Roman","Times",serif;
+    max-width: 700px;
+    padding-left: 20px;
+}
+
+.onewtc {
+    display: flex;
+    margin: 40px;
+    padding: 20px;
+}
+
+.twowtc {
+    margin: 40px;
+    padding: 20px;
+}
+
+.wtcsiteplan {
+    margin: 40px;
+    text-align: center;
+}
+
+.separator {
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.paragraph2 {
+    font-family: "Times New Roman","Times",serif;
+    max-width: 700px;
+    padding-left: 0;
+}
+
+.footer {
+    padding: 20px;
+    background-color: #33bebe;
+    color: white;
+}
+
+.footer2 {
+    font-family: "Helvetica","Arial",sans-serif;
+    max-width: 100%;
+}
